@@ -1,4 +1,4 @@
-# 2019_Election_Analsis
+# 2019_Election_Analysis
 >
 ## Contents of the project package:
 >
